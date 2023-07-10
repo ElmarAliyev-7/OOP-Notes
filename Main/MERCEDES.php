@@ -4,6 +4,6 @@ class MERCEDES extends Car
 {
     public function drive()
     {
-        // TODO: Implement drive() method.
+        return 'MERCEDES class drive method';
     }
 }
